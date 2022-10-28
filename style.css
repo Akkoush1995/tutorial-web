@@ -55,14 +55,14 @@ footer{text-align: center;}
 #navbar li{
     display: inline;
     background-color: #FF1E1E;
-    padding: 10px;
-    float:right;
+    padding: 15px;
+    float:left;
     border: 1.5px gray solid;
     border-radius: 5px;
+    font-size: 15px;
 }
 #navbar li:nth-child(4){
     background-color: #FF1E1E;
-    float: left;
     
 }
 #navbar ul{
